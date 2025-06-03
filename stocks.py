@@ -608,7 +608,7 @@ with tabs[7]:
     # Developers' Information
     st.write("### Meet Our Developers")
     developers = [
-            {"name": "Adama Cisse", "email": "acisse@iuj.ac.jp", "github": "https://github.com/adama6cpython"},
+            {"name": "Adama Cisse", "email": "h.aturki@iuj.ac.jp"},
             {"name": "Arthur Kariuki", "email": "a.nj58@iuj.ac.jp", "github": "https://github.com/arthurkrk"},
             {"name": "Fahad M. Mirza", "email": "fmmirza@iuj.ac.jp", "github": "https://github.com/fmmirza7"},
             {"name": "Ibra Ndiaye", "email": "maibra@iuj.ac.jp", "github": "https://github.com/rabihimo"},
